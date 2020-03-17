@@ -23,6 +23,7 @@ def find_the_cheese(array)
   while cheese_types[index] do
     bool = array.include?(cheese_types[index])
     return cheese_types[index] if bool == true
+    index+=1
   end 
   
 end
