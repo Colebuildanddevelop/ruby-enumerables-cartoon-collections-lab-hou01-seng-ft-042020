@@ -8,6 +8,7 @@ def summon_captain_planet(array)
   array.map { |ele| 
     
   }
+  array
 
 end
 
