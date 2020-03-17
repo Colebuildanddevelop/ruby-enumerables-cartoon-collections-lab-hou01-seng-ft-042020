@@ -17,4 +17,4 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
-roll_call_dwarves()
+roll_call_dwarves(["Dopey", "Grumpy", "Bashful"])
