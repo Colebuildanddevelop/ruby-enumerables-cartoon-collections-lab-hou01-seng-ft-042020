@@ -25,6 +25,7 @@ def find_the_cheese(array)
     return cheese_types[index] if bool == true
     index+=1
   end 
+  nil
   
 end
 
