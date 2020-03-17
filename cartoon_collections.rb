@@ -5,10 +5,9 @@ def roll_call_dwarves(array)
 end
 
 def summon_captain_planet(array)
-  array.map { |ele| 
+  capitalized_array = array.map { |ele| 
     
   }
-  array
 
 end
 
@@ -22,4 +21,4 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
-roll_call_dwarves(["Dopey", "Grumpy", "Bashful"])
+summon_captain_planet
